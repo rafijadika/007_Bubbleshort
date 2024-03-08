@@ -35,7 +35,7 @@ void display() { //Method untuk menampilkan hasil
     for (int i = 0; i < n; i++) {
         cout << arr[i] << endl;
     }
-    cout << endl;                                         //Output ke layar
+    cout << endl;                                         //Output ke layar 
 }
 
 void bubbleSortArray() { //Method untuk mengurungkan array dengan metode bubble sort
